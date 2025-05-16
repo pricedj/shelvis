@@ -1,0 +1,28 @@
+name: shelvis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - scipy
+  - numba>=0.61
+  - pandas
+  - nomkl
+  - astropy
+  - astroquery
+  - sunpy
+  - sunpy-soar
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - vtk
+  - pyhdf
+  - pyevtk
+  - namedlist
+  - sympy
+  - plotly
+  - anywidget
+  - pip
+  - pip:
+    - cdflib
