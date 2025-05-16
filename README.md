@@ -14,3 +14,5 @@ The basic environment including the basic required dependencies can be created u
 the provided specification:
 
     conda env create -f environment.yml
+
+It presently also requires a working installation of [CIDER](https://github.com/jpomoell/cider/) on your path.
