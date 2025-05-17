@@ -23,6 +23,9 @@ dependencies:
   - sympy
   - plotly
   - anywidget
+  - gfortran
   - pip
   - pip:
     - cdflib
+    - git+https://github.com/jpomoell/pysmsh
+    - git+https://github.com/pricedj/fishpack
